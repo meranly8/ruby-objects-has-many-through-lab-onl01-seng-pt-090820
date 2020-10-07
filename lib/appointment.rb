@@ -1,0 +1,1 @@
+#appointment belongs to a Patient and a Doctor
