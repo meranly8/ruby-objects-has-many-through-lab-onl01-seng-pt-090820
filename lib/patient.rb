@@ -1,1 +1,1 @@
-#Patient has many Appointments
+#Patient has many Appointments; Patient has many Doctors through Appointments
