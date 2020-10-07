@@ -1,6 +1,7 @@
 #Song belongs to an Artist
 class Song
-  attr_accessor :name, :artist, :genre 
+  attr_accessor :name, :artist, :genre
+
   @@all = []
   
   def initialize(name, artist, genre)
