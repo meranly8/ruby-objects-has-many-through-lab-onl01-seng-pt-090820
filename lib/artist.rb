@@ -1,1 +1,1 @@
-#artist has many genres through songs
+#Artist has many Genres through Songs
