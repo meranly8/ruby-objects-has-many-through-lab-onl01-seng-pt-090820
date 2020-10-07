@@ -1,1 +1,1 @@
-#a genre has many songs; genre has many artists through songs
+#Genre has many Songs; Genre has many Artists through Songs
